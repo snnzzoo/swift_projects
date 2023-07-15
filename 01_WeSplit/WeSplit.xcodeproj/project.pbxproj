@@ -9,25 +9,25 @@
 /* Begin PBXBuildFile section */
 		BE28D0842A626E2100EBD72E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE28D0832A626E2100EBD72E /* Assets.xcassets */; };
 		BE28D0872A626E2100EBD72E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE28D0862A626E2100EBD72E /* Preview Assets.xcassets */; };
-		BE619F3F2A626E9300B5F950 /* LoopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE619F392A626E9300B5F950 /* LoopView.swift */; };
-		BE619F402A626E9300B5F950 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE619F3A2A626E9300B5F950 /* FormView.swift */; };
-		BE619F412A626E9300B5F950 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE619F3B2A626E9300B5F950 /* Binding.swift */; };
-		BE619F422A626E9300B5F950 /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE619F3C2A626E9300B5F950 /* WeSplitApp.swift */; };
-		BE619F432A626E9300B5F950 /* State.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE619F3D2A626E9300B5F950 /* State.swift */; };
-		BE619F442A626E9300B5F950 /* WeSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE619F3E2A626E9300B5F950 /* WeSplitView.swift */; };
+		BEF5F4792A6276DB00CBC2A9 /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5F4782A6276DB00CBC2A9 /* WeSplitApp.swift */; };
+		BEF5F47B2A6276F600CBC2A9 /* WeSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5F47A2A6276F600CBC2A9 /* WeSplitView.swift */; };
+		BEF5F47D2A62771D00CBC2A9 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5F47C2A62771D00CBC2A9 /* FormView.swift */; };
+		BEF5F47F2A62773000CBC2A9 /* State.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5F47E2A62773000CBC2A9 /* State.swift */; };
+		BEF5F4812A62774600CBC2A9 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5F4802A62774600CBC2A9 /* Binding.swift */; };
+		BEF5F4832A62775500CBC2A9 /* Loop.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5F4822A62775500CBC2A9 /* Loop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BE28D07C2A626E1F00EBD72E /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE28D0832A626E2100EBD72E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE28D0862A626E2100EBD72E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		BE619F392A626E9300B5F950 /* LoopView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoopView.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/LoopView.swift"; sourceTree = "<group>"; };
-		BE619F3A2A626E9300B5F950 /* FormView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FormView.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/FormView.swift"; sourceTree = "<group>"; };
-		BE619F3B2A626E9300B5F950 /* Binding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Binding.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/Binding.swift"; sourceTree = "<group>"; };
-		BE619F3C2A626E9300B5F950 /* WeSplitApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeSplitApp.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/WeSplitApp.swift"; sourceTree = "<group>"; };
-		BE619F3D2A626E9300B5F950 /* State.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = State.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/State.swift"; sourceTree = "<group>"; };
-		BE619F3E2A626E9300B5F950 /* WeSplitView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeSplitView.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/WeSplitView.swift"; sourceTree = "<group>"; };
 		BEB054822A62710F000C8162 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BEF5F4782A6276DB00CBC2A9 /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
+		BEF5F47A2A6276F600CBC2A9 /* WeSplitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitView.swift; sourceTree = "<group>"; };
+		BEF5F47C2A62771D00CBC2A9 /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
+		BEF5F47E2A62773000CBC2A9 /* State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State.swift; sourceTree = "<group>"; };
+		BEF5F4802A62774600CBC2A9 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		BEF5F4822A62775500CBC2A9 /* Loop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,12 +61,12 @@
 		BE28D07E2A626E1F00EBD72E /* WeSplit */ = {
 			isa = PBXGroup;
 			children = (
-				BE619F3B2A626E9300B5F950 /* Binding.swift */,
-				BE619F3A2A626E9300B5F950 /* FormView.swift */,
-				BE619F392A626E9300B5F950 /* LoopView.swift */,
-				BE619F3D2A626E9300B5F950 /* State.swift */,
-				BE619F3C2A626E9300B5F950 /* WeSplitApp.swift */,
-				BE619F3E2A626E9300B5F950 /* WeSplitView.swift */,
+				BEF5F4782A6276DB00CBC2A9 /* WeSplitApp.swift */,
+				BEF5F47A2A6276F600CBC2A9 /* WeSplitView.swift */,
+				BEF5F47C2A62771D00CBC2A9 /* FormView.swift */,
+				BEF5F47E2A62773000CBC2A9 /* State.swift */,
+				BEF5F4822A62775500CBC2A9 /* Loop.swift */,
+				BEF5F4802A62774600CBC2A9 /* Binding.swift */,
 				BE28D0832A626E2100EBD72E /* Assets.xcassets */,
 				BE28D0852A626E2100EBD72E /* Preview Content */,
 			);
@@ -152,12 +152,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE619F422A626E9300B5F950 /* WeSplitApp.swift in Sources */,
-				BE619F402A626E9300B5F950 /* FormView.swift in Sources */,
-				BE619F412A626E9300B5F950 /* Binding.swift in Sources */,
-				BE619F442A626E9300B5F950 /* WeSplitView.swift in Sources */,
-				BE619F432A626E9300B5F950 /* State.swift in Sources */,
-				BE619F3F2A626E9300B5F950 /* LoopView.swift in Sources */,
+				BEF5F47D2A62771D00CBC2A9 /* FormView.swift in Sources */,
+				BEF5F4792A6276DB00CBC2A9 /* WeSplitApp.swift in Sources */,
+				BEF5F47F2A62773000CBC2A9 /* State.swift in Sources */,
+				BEF5F4832A62775500CBC2A9 /* Loop.swift in Sources */,
+				BEF5F47B2A6276F600CBC2A9 /* WeSplitView.swift in Sources */,
+				BEF5F4812A62774600CBC2A9 /* Binding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
