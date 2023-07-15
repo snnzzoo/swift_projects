@@ -10,3 +10,7 @@
 
 
 <img width="338" alt="스크린샷 2023-07-10 오후 6 36 31" src="https://github.com/snnzzoo/guess_the_flag/assets/104806801/0bbc3f29-ac7c-49d1-ad34-4b3c8757f397">
+
+
+|  |  |  |
+|--|--|--|
