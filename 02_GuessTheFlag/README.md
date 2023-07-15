@@ -10,5 +10,4 @@
 
 
 | ![Simulator Screen Shot - iPhone 14 Pro - 2023-07-15 at 14 52 17](https://github.com/snnzzoo/swift_projects/assets/104806801/dfcda1a8-3e5e-4c49-9946-37b8aaa971b8) | ![Simulator Screen Shot - iPhone 14 Pro - 2023-07-15 at 14 52 42](https://github.com/snnzzoo/swift_projects/assets/104806801/c2e37495-ed2c-446f-99b9-a55611234d38) | ![Simulator Screen Shot - iPhone 14 Pro - 2023-07-15 at 14 59 17](https://github.com/snnzzoo/swift_projects/assets/104806801/ad89073d-5f08-4638-8043-388e9d165610) |
-
 |--|--|--|
