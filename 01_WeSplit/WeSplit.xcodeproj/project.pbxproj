@@ -27,6 +27,7 @@
 		BE619F3C2A626E9300B5F950 /* WeSplitApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeSplitApp.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/WeSplitApp.swift"; sourceTree = "<group>"; };
 		BE619F3D2A626E9300B5F950 /* State.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = State.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/State.swift"; sourceTree = "<group>"; };
 		BE619F3E2A626E9300B5F950 /* WeSplitView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeSplitView.swift; path = "../../../Practice/100 Days of SwiftUI/WeSplit/WeSplit/WeSplitView.swift"; sourceTree = "<group>"; };
+		BEB054822A62710F000C8162 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		BE28D0732A626E1F00EBD72E = {
 			isa = PBXGroup;
 			children = (
+				BEB054822A62710F000C8162 /* README.md */,
 				BE28D07E2A626E1F00EBD72E /* WeSplit */,
 				BE28D07D2A626E1F00EBD72E /* Products */,
 			);
