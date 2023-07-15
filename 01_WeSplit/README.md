@@ -1,7 +1,7 @@
 # 💲 WeSplit
 
 
-[100 Days of SwiftUI] Project 01
+[[100 Days of SwiftUI] Project 01](https://www.hackingwithswift.com/100/swiftui/16)
 
 음식값에 팁을 더해 인당 더치페이 금액을 계산하는 앱이다.
 
