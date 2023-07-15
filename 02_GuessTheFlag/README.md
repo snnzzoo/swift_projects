@@ -1,6 +1,6 @@
 # 🇰🇷 Guess the Flag
 
-[100 Days of SwiftUI] Project 02
+[[100 Days of SwiftUI] Project 02](https://www.hackingwithswift.com/100/swiftui/20)
 
 나라별 국기를 맞추는 게임이다.
 
